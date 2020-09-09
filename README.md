@@ -10,6 +10,7 @@ To drive the motor, a L293D half-H driver is used.
 - ADAFRUIT ADA2424 Automotive Gauge Stepper Motor
 
 ## Schematic
+![schematic](https://github.com/Neoni92/signal-generator-tachometer/blob/master/Schematics/tachometer_schematic.png)
 
 ## How it works
 Atmel Studio 7 is used to program the ATmega328P (Arduino Uno) and it is programmed in C.
